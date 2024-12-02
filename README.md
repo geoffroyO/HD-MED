@@ -43,7 +43,7 @@ X_red, idx_clf = hdgmm.project(X, params_hd, config) # Project the initial high-
 X_decompressed = hdgmm.inv_project(X_red, idx_clf)
 ```
 
-
+##### 👩‍💻 Basic exemple in **notebook/**. 👨‍💻
 ### Todo
 
 - [ ] Implement Ruppert-Polyak Averaging and find a way to average variables in the Stiefel manifold
