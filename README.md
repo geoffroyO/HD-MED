@@ -44,6 +44,11 @@ X_decompressed = hdgmm.inv_project(X_red, idx_clf)
 ```
 
 ##### 👩‍💻 Basic exemple in **notebook/**. 👨‍💻
+
+### References
+ - [1] Oudoumanessah, G., Coudert, T., Meyer, L., Delphin, A., Dojat, M., Lartizien, C., & Forbes, F. Cluster globally, Reduce locally: Scalable efficient dictionary compression for magnetic resonance fingerprinting.  In 2025 IEEE 22th International Symposium on Biomedical Imaging (ISBI).
+
+ - [2] Oudoumanessah, G., Coudert, T., Lartizien, C., Dojat, M., Christen, T., & Forbes, F. (2024). Scalable magnetic resonance fingerprinting: Incremental inference of high dimensional elliptical mixtures from large data volumes. arXiv preprint arXiv:2412.10173.
 ### Todo
 
 - [ ] Implement Ruppert-Polyak Averaging and find a way to average variables in the Stiefel manifold
