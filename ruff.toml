@@ -1,3 +1,0 @@
-[lint]
-# Ignore import order in __init__.py where logging setup must happen first
-per-file-ignores = { "__init__.py" = ["E402"] }
