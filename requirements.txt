@@ -1,0 +1,35 @@
+# Core scientific computing
+numpy>=2.3.0
+scipy>=1.16.0
+
+# JAX ecosystem
+jax>=0.7.0
+jaxlib>=0.7.0
+flax>=0.11.0
+optax>=0.2.5
+chex>=0.1.90
+orbax>=0.1.9
+
+# Data processing
+grain>=0.2.11
+ml_collections>=1.1.0
+
+# Visualization
+matplotlib>=3.10.0
+seaborn>=0.13.0
+
+# Machine Learning
+scikit-learn>=1.7.0
+
+# Utilities
+tqdm>=4.67.0
+rich>=14.1.0
+kneed>=0.8.5
+h5py>=3.14.0
+logbesselk>=3.4.0
+
+# Development
+absl-py>=2.3.0
+
+# Jupyter (for running notebooks)
+jupyter>=1.1.0
